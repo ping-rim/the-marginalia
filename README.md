@@ -119,4 +119,4 @@ published pieces are not persisted and reset on refresh. Planned next:
 
 ## License
 
-Not yet licensed.
+[MIT](LICENSE)
